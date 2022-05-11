@@ -47,7 +47,7 @@
   },
   "ping": {
     "description": "查看機器人延遲平均值",
-    "result": "📈 API延遲平均值: {ping} 毫秒"
+    "result": "延遲平均值: {ping} 毫秒"
   },
   "play": {
     "description": "播放 YouTube 或 Soundcloud 的音樂",
@@ -72,7 +72,7 @@
     "stopSong": "<@{author}> ⏹ 停止了歌曲!",
     "leaveChannel": "正在離開語音頻道...",
     "songNotFound": "沒有找到曲目",
-    "songAccessErr": "视频有年龄限制、私人或不可用"
+    "songAccessErr": "影片有年齡限制、私人或不可用"
   },
   "playlist": {
     "description": "播放 YouTube 的播放清單",
