@@ -2,7 +2,7 @@ import { i18n } from "../utils/i18n.js";
 import { canModifyQueue } from "../utils/queue.js";
 
 export default {
-  name: "stop",
+  name: "clear",
   description: i18n.__("stop.description"),
   execute(message) {
     const queue = message.client.queue.get(message.guild.id);
